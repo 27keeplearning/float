@@ -1,0 +1,33 @@
+body{
+    height:800px;
+    width: 800px;
+    border:1px solid darkgrey;
+}
+#header{
+    background-color: #4eadff;
+    height: 100%;
+    width: 150px;
+    float: left;
+    margin-right: 20px;
+    color: white;
+}
+#header_id{
+    clear: left;
+    margin: 40px;
+}
+#container{
+    padding-top: 1px;
+}
+.span_content{
+    padding-right: 50px;
+}
+p{
+    margin-bottom: 30px;
+}
+.span_content1{
+    display: block;
+}
+.span_content1,
+.span_content2 {
+    font-weight: bold;
+}
