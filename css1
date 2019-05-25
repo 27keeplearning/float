@@ -1,0 +1,19 @@
+body{
+    margin: 0px 20px;
+    padding-left:10px;
+    border:1px solid darkgrey;
+    width: 650px;
+}
+.span_content{
+    padding-right: 50px;
+}
+.span_content1{
+    display: block;
+    font-weight: bold;
+}
+.span_content2{
+    font-weight: bold;
+}
+p{
+     margin-bottom: 30px;
+ }
